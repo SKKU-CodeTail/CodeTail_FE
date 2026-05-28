@@ -1,3 +1,39 @@
+# CodeTail Frontend
+
+Frontend repository for the CodeTail project.
+
+## Overview
+
+CodeTail FE provides the user interface for the CodeTail platform.
+Users can upload code, receive AI-based feedback, and interact with code analysis results through a modern web UI.
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- TailwindCSS
+- Axios
+
+## Features
+
+- User Authentication
+- Code Upload & Analysis
+- AI Feedback Visualization
+- Dashboard UI
+- Responsive Design
+
+## Project Structure
+
+```bash
+src/
+├── components/
+├── pages/
+├── services/
+├── hooks/
+├── layouts/
+└── assets/
+
 # References
 https://github.com/manuarora700/react-code-editor
 # CodeRush - Compile and Execute code in 40+ languages
