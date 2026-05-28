@@ -33,6 +33,7 @@ src/
 ├── hooks/
 ├── layouts/
 └── assets/
+```
 
 # References
 https://github.com/manuarora700/react-code-editor
